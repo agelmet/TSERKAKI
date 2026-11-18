@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/adamantia-tserkaki-icon.svg"
+ },
+ "source_md5": "aa15562918715b71991dcd11faf7a6d5",
+ "version": "9a3c50c8",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "a8bf0784863e3a1d0f8edf1921f04b93"
+ ],
+ "made": "2026-11-18"
+}
